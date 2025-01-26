@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="256" cy="256" r="248" fill="#8B5CF6" />
+  
+  <!-- Play Button Triangle -->
+  <path d="M360 256L200 350L200 162L360 256Z" fill="white"/>
+  
+  <!-- Decorative Lines -->
+  <path d="M128 180C128 171.716 134.716 165 143 165H180C188.284 165 195 171.716 195 180V180C195 188.284 188.284 195 180 195H143C134.716 195 128 188.284 128 180V180Z" fill="white"/>
+  <path d="M128 256C128 247.716 134.716 241 143 241H180C188.284 241 195 247.716 195 256V256C195 264.284 188.284 271 180 271H143C134.716 271 128 264.284 128 256V256Z" fill="white"/>
+  <path d="M128 332C128 323.716 134.716 317 143 317H180C188.284 317 195 323.716 195 332V332C195 340.284 188.284 347 180 347H143C134.716 347 128 340.284 128 332V332Z" fill="white"/>
+  
+  <!-- Border -->
+  <circle cx="256" cy="256" r="248" stroke="white" stroke-width="16"/>
+</svg> 
